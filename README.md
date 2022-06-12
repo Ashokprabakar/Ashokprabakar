@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashokprabakar
-- 👀 I’m interested in Java and python applcation and web development.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in React-Redux for web development.
+- 🌱 I’m currently learning React 
 
 
 <!---
